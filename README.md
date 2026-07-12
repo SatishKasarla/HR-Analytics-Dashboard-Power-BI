@@ -1,4 +1,3 @@
-#HR Analytics Dashboard - Power BI
 👥 HR Analytics Dashboard: Workforce Insights & Employee Attrition Analysis
 Recommended Structure and Order
 1. Project Title / Headline
